@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+main 
+function1() {
+}
+funtion2 {
+developerA
+=======
+main
+function1() {
+}
+function2() {
+developerA
+}
+function3() {
+developerC
+>>>>>>> developerC
+}
