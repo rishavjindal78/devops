@@ -1,9 +1,0 @@
-main
-function1() {
-}
-function2() {
-developerA
-}
-function3() {
-developerC
-}
